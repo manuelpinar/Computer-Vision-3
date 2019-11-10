@@ -15,3 +15,7 @@ On the other hand, the laser marker can make two types of movements:
 flat image of the camera.
 • Horizontal: the laser can move angularly around a vertical axis.
 We have called the angular parameter β (angles table).
+
+ANGLES TABLE
+
+![](https://github.com/manuelpinar/Computer-Vision-3-Perception-Systems-MatLab/blob/master/Angles%20Table.png)
